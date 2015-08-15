@@ -1,0 +1,8 @@
+default 0
+timeout 0
+hiddenmenu
+
+title MyOS
+    root (hd0,0)
+    kernel /System/Kernel
+    boot
