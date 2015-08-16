@@ -10,6 +10,8 @@
 **/obj/*
 *.map
 *.pdb
+VMWare/*.log
+VMWare/*.dmp
 
 # Binaries
 **/Debug/*
